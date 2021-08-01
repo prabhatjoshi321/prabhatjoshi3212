@@ -151,7 +151,7 @@ OS:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhatjoshi321&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatjoshi321&layout=compact&theme=tokyonight)
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jerry221.png)
+![TryHackMe](https://github.com/prabhatjoshi321/prabhatjoshi321/blob/main/img/try.png?raw=true)
 
 <br/>
 
