@@ -172,6 +172,6 @@ OS:
 <a href="https://www.instagram.com/joshi__prabhat/">
   <img align="left" alt="joshi's LinkedIN" width="22px" src="https://github.com/prabhatjoshi321/prabhatjoshi321/blob/main/img/icons8-instagram-logo-48.png?raw=true" />
 </a>
-<a href="https://www.cyberblogs.tech/">
+<a href="https://www.cyberblogs.ml/">
   <img align="left" alt="joshi's Medium" width="22px"  src="https://github.com/prabhatjoshi321/prabhatjoshi321/blob/main/img/icons8-blog-48.png?raw=true" />
 </a>
